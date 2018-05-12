@@ -1,0 +1,44 @@
+_repo: Red-Cap-TalesStolen-from-the-Treasure-Chest-of-the-Wizard-of-the-North_22656
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22656-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  - agent_name: Crockett, S. R. (Samuel Rutherford)
+    alias: Crockett, Samuel Rutherford
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '1590'
+    url: http://www.gutenberg.org/2009/agents/1590
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
+description: Red cap tales from "Waverley". -- Red cap tales from "Guy Mannering".
+  -- Red cap tales from "Rob Roy". -- Red cap tales from "The antiquary."
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2007-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22656'
+  lccn: 04025381
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scott, Walter, 1771-1832 -- Adaptations'
+- !lcc 'PZ'
+tableOfContents: Red cap tales from "Waverley" -- Red cap tales from "Guy Mannering"
+  -- Red cap tales from "Rob Roy" -- Red cap tales from "The antiquary."
+title: Red Cap Tales, Stolen from the Treasure Chest of the Wizard of the North
+url: http://www.gutenberg.org/ebooks/22656

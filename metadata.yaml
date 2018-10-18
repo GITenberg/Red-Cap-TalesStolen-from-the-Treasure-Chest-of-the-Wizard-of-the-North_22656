@@ -40,6 +40,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Scott, Walter, 1771-1832 -- Adaptations'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: Red cap tales from "Waverley" -- Red cap tales from "Guy Mannering"
   -- Red cap tales from "Rob Roy" -- Red cap tales from "The antiquary."
 title: Red Cap Tales, Stolen from the Treasure Chest of the Wizard of the North
